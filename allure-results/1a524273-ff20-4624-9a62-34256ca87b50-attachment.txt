@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//class[normalize-space(text()) = \"action to wishlist\"] | .//class[not(.//class[normalize-space(text()) = \"action to wishlist\"]) and normalize-space() = \"action to wishlist\"]"
+}
