@@ -7,7 +7,7 @@ describe('add to wishlist', () => {
         await $('#product-price-1396').getText()
         await expect($('#product-price-1396')).toHaveTextContaining('$')
         await $('#option-label-size-143-item-167').click()
-        await $('#maincontent').click()
+        await $('.action towishlist').click()
 
     })
 })

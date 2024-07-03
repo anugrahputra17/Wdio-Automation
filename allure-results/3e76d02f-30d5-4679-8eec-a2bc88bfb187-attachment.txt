@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#product-price-1396\"}\n  (Session info: chrome=126.0.6478.127)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF71F47EEA2+31554]\n\t(No symbol) [0x00007FF71F3F7ED9]\n\t(No symbol) [0x00007FF71F2B872A]\n\t(No symbol) [0x00007FF71F308434]\n\t(No symbol) [0x00007FF71F30853C]\n\t(No symbol) [0x00007FF71F34F6A7]\n\t(No symbol) [0x00007FF71F32D06F]\n\t(No symbol) [0x00007FF71F34C977]\n\t(No symbol) [0x00007FF71F32CDD3]\n\t(No symbol) [0x00007FF71F2FA33B]\n\t(No symbol) [0x00007FF71F2FAED1]\n\tGetHandleVerifier [0x00007FF71F788B1D+3217341]\n\tGetHandleVerifier [0x00007FF71F7D5AE3+3532675]\n\tGetHandleVerifier [0x00007FF71F7CB0E0+3489152]\n\tGetHandleVerifier [0x00007FF71F52E776+750614]\n\t(No symbol) [0x00007FF71F40375F]\n\t(No symbol) [0x00007FF71F3FEB14]\n\t(No symbol) [0x00007FF71F3FECA2]\n\t(No symbol) [0x00007FF71F3EE16F]\n\tBaseThreadInitThunk [0x00007FF80ACB257D+29]\n\tRtlUserThreadStart [0x00007FF80BBCAF28+40]\n"
+}
